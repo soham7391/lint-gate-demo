@@ -1,6 +1,6 @@
 # Lint Gate Demo
 
-A beginner-friendly project demonstrating a fast-fail lint gate using Git, Husky, Prettier, and GitHub Actions.
+A project demonstrating a fast-fail lint gate using Git, Husky, Prettier, and GitHub Actions.
 
 ## Overview
 
